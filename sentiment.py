@@ -1,6 +1,10 @@
+#You need to install TextBlob Package first.
+#try the command below
 #pip install TextBlob
+#If it doesn't work, try
+#pip3 install TextBlob
 
-#import TextBlob
+#importing the downloaded TextBlob
 from textblob import TextBlob
 
 text = "Python is a very good language to learn"
